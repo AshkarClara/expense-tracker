@@ -53,3 +53,19 @@ label {
   color: #fff;
   cursor: pointer;
 }
+
+
+/* Listing */
+table{
+  margin-top: 20px;
+  width: 100%;
+  font-size: 1.2rem;
+}
+
+tr{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+
+}
